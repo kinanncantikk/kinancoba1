@@ -8,8 +8,8 @@ import streamlit as st
 
 st.markdown("*Kinan* is **really** ***cute***.")
 st.markdown('''
-    :red[kinan] :orange[is] :green[really] :blue[cute] :violet[in]
-    :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
+    :red[kinan] :orange[is] :green[really] :blue[cute] :violet[hii]
+    :gray[pretty] :rainbow[<3,<3] and :blue-background[huhuhuu] text.''')
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
